@@ -93,8 +93,10 @@ This is my personal journey — but feel free to fork or take inspiration for yo
 
 ## 📩 **Connect with Me**
 
-🔗 [LinkedIn](https://www.linkedin.com/in/soumyadeep-bhowmik/)
-📧 **Email**: [soumyadeepbhowmik2124@gmail.com](mailto:soumyadeepbhowmik2124@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/soumyadeep2124/)
+
+)
+📧 **Email**: [mrbhowmik2124@gmail.com](mailto:mrbhowmik2124@gmail.com)
 
 ---
 
