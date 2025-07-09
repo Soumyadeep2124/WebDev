@@ -95,7 +95,7 @@ This is my personal journey — but feel free to fork or take inspiration for yo
 
 🔗 [LinkedIn](https://www.linkedin.com/in/soumyadeep2124/)
 
-)
+
 📧 **Email**: [mrbhowmik2124@gmail.com](mailto:mrbhowmik2124@gmail.com)
 
 ---
