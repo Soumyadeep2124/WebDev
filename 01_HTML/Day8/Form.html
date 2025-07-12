@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>IIT JEE Registration Form</h1>
+    <form action=""> <!-- mujhe form ko kaha bhejna hai, form ka url -->
+
+        <fieldset>
+            <legend>User info</legend>
+        <label for="fname">Full Name: <span style="color: crimson;">*</span></label>
+            <input type="fname" name="fname" id="fname" required><br><br>
+
+            <label for="mail">Email:</label>
+            <input type="email" name="mail" id="mail" required><br><br>
+            
+            <label for="no">Ph No:</label>
+            <input type="tel" name="no" id="no" required><br><br>
+
+            <label for="pass">Password:</label>
+            <input type="password" name="pass" id="pass" required><br><br>
+
+            <label>Gender:</label>
+            <label for="male">Male</label>
+            <input type="radio" name="gender" id="male" value="male">
+            <label for="female">Female</label>
+            <input type="radio" name="gender" id="female" value="female">
+            <label for="other">Other</label>
+            <input type="radio" name="gender" id="other" value="other"><br><br>
+
+            <label for="dob">D.O.B</label>
+            <input type="date" name="dob" id="dob" min="2001-01-01" max="2005-12-31" required><br><br>
+
+            <label for="school">School name:</label>
+            <input type="text" name="school" id="school" required><br><br>
+            </fieldset><br>
+
+            
+            <fieldset>
+                <legend>User Other Info</legend>
+            <label for="board">Board</label>
+            <select name="board" id="board">
+            <option value="" disabled selected>Select Your board</option>
+            <option value="CBSE">CBSE</option>
+            <option value="ICSE">ICSE</option>
+            <option value="Upboard">UP Board</option>
+            <option value="Msboard">Maharatra Board</option>
+        </select><br><br>
+            
+
+            <label for="yearr">Year Of passing</label>
+            <input type="number" id="year" name="year" min="2023" max="2025" required><br><br>
+
+            <label for="centre">Exam Centre</label>
+            <select name="centre" id="centre">
+                <option value="" disabled selected>Select Exam Centre</option>
+                <option value="Delhi">Delhi</option>
+                <option value="Kolkata">Kolkata</option>
+                <option value="Hyderabad">Hyderabad</option>
+                <option value="Mumbai">Mumbai</option>
+                <option value="Gujarat">Gujarat</option>
+            </select><br><br>
+        </fieldset><br>
+
+            <button>Register</button>
+      
+    </form>
+
+</body>
+</html>
