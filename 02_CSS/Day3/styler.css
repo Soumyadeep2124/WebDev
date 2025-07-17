@@ -1,0 +1,46 @@
+body{
+    font-family: Verdana, sans-serif;
+    color: #333;
+    background-color: #f0f0f0;
+}
+header{
+    background-color: #4CAF50;
+    color: white;
+  
+}
+h1{
+    font-size: 2em;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+h2{
+    font-size: 1em;
+    font-weight: bold;
+    color: rebeccapurple;
+}
+h3{
+    color: rgb(200, 130, 25);
+}
+h4{
+    color: rgb(73, 45, 176);
+}
+article{
+    background-color: white;
+}
+
+table{
+    background-color: #f9f9f9;
+    width: 100%;
+
+}
+th{
+    background-color: #007BFF;
+    color: white;
+}
+td{
+    text-align: center;
+}
+footer{
+    color: #333;
+    background-color: #ccc;
+}

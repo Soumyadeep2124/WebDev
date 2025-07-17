@@ -1,0 +1,27 @@
+body{
+    background-color: #faebba;
+}
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+section p{
+    background-color: rgb(194, 164, 164);
+}
+section>p{
+    background-color: rgb(221, 221, 241);
+}
+h3,h2{
+    background-color: #85c7ee;
+}
+#about{
+    background-color: #ebc6c6;
+}
+.hello{
+    background-color: #d9d3f7;
+}
+h1[draggable="true"]{
+    background-color: #abf0a9;
+}
+h1[contenteditable="true"]{
+    background-color: #edcdf3;
+}

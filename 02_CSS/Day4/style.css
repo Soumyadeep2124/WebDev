@@ -1,0 +1,36 @@
+h1{
+    background-color: aqua;
+   border-width: 5px;
+   border-style:  solid;
+   border-color: brown;
+   width: 300px;
+   height: 200px;
+   border-radius: 20px;
+   padding: 10px 20px;
+   margin: 100px;
+   box-sizing: border-box;
+
+}
+ul{
+    background-color: pink;
+}
+p{
+    border-width: 5px;
+    border-color: black;
+    border-style: dashed;
+    color: black;
+    padding: 10px;
+}
+h1{
+    border: 5px brown solid; 
+}
+h4{
+    background-color: plum;
+    /* border-left-width: 10px;
+    border-left-color: blue;
+    border-left-style: solid;
+     */
+     border-width: 10px 20px;
+     border-style: solid;
+     border-color: green;
+}

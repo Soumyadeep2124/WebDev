@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: small;
+}
+.nav{
+    height: 80px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 40px;
+
+}
+.nav .h1 h1 span{
+    color: blue;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.option{
+    display: flex;
+    gap: 40px;
+}
+.home a{
+    color: blue;
+}
+button{
+    height: 30px;
+    width: 70px;
+    border: none;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+}
+form{
+    height: 450px;
+    width: 400px;
+    border: 2px solid rgb(175, 175, 175);
+    margin: 0 auto;
+    border-radius: 20px;
+}
+.formdata{
+   text-align: center;
+}
+.full label{
+    margin-right: 220px;
+}
+.full input{
+    height: 40px;
+    width: 300px;
+    border-radius: 10px;
+    border: 2px solid black;
+    padding-left: 20px;
+}
+.email label{
+    margin-right: 220px;
+}
+.email input{
+    height: 40px;
+    width: 300px;
+    border-radius: 10px;
+    border: 2px solid black;
+    padding-left: 20px;
+}
+.phno label{
+    margin-right: 180px;
+}
+.phno input{
+    height: 40px;
+    width: 300px;
+    border-radius: 10px;
+    border: 2px solid black;
+    padding-left: 20px;
+}
+.pass label{
+    margin-right: 220px;
+}
+.pass input{
+    height: 40px;
+    width: 300px;
+    border-radius: 10px;
+    border: 2px solid black;
+    padding-left: 20px;
+}
+.signbtn button{
+    width: 350px;
+    height: 40px;
+    margin-top: 10px;
+}
